@@ -15,7 +15,7 @@ from telethon.errors import MessageNotModifiedError
 # tokens/keys get scraped by bots within minutes of a public push.
 API_ID = int(os.environ.get("TG_API_ID", "8477522"))
 API_HASH = os.environ.get("TG_API_HASH", "366c19cf69e02cad530261ad81212a85")
-BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8430045904:AAHUF7DF0IKzINaTW2jV5Sx_dDMK891Ozv8")
+BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8969816751:AAG5ldtB-ztm100rBomZ_tdxpeVk4xVoghI")
 ADMIN_ID = int(os.environ.get("TG_ADMIN_ID", "5190717598"))
 
 # 51sms.cc user-side API
