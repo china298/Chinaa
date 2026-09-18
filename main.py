@@ -19,8 +19,8 @@ BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8969816751:AAG5ldtB-ztm100rBomZ_tdxp
 ADMIN_ID = int(os.environ.get("TG_ADMIN_ID", "5190717598"))
 
 # 51sms.cc user-side API
-SMS_API_KEY = os.environ.get("SMS_API_KEY", "hr_8cabc037a7325d429054e8dd432eef88")
-SMS_API_BASE = "https://51sms.cc/api/v1/user"
+SMS_API_KEY = os.environ.get("SMS_API_KEY", "hr_0b245a6914d75a55ebbece360085a4cb")
+SMS_API_BASE = "https://haoxd.cc/api/v1/user"
 # ================================================
 
 
